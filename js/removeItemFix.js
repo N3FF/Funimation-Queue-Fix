@@ -1,3 +1,5 @@
+/* Original Author: Justin N. 3/21/2021 */
+
 /*
     A COUPLE OF COMMENTS WERE MADE SAYING IT DIDN'T WORK PROPERLY.
     Some changes need to be made somewhere in the extension enabled block
@@ -35,7 +37,7 @@ chrome.storage.local.get(["removeFromQueueFix"], function (result) {
     Removing the "remove" class makes it into an add button.
 
     Here is the difference between an Add button and a Remove button 
-    
+
     <span class="btn add-queue-btn remove">Remove from Queue</span>
     <span class="btn add-queue-btn">Add to Queue</span>
 */

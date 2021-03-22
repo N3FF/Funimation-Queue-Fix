@@ -1,3 +1,5 @@
+/* Original Author: Justin N. 3/21/2021 */
+
 // Keeps track of if the toggle in the menu is on or off.
 let settings = {
     queueSortFixEnabled: 1,

@@ -1,3 +1,5 @@
+/* Original Author: Justin N. 3/21/2021 */
+
 const FUNIMATION = {
     URL: "https://www.funimation.com/",
     COOKIE: {

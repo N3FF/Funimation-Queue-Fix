@@ -1,3 +1,5 @@
+/* Original Author: Justin N. 3/21/2021 */
+
 // Actions sent through Chrome to our other scripts such as telling the background script that
 // it needs to GET_QUEUE (get the queue) from the server
 const ACTION = {
